@@ -21,6 +21,10 @@ Things you may want to cover:
 
 * Deployment instructions
 
+<<<<<<< HEAD
 * ...
 # test
 # Test3
+=======
+* Hashidume teacher is GOD
+>>>>>>> 88de70d398da2ef18cdad8ff34dda7cb917456cc
